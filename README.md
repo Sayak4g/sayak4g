@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead](https://global.discourse-cdn.com/business5/uploads/rust_lang/original/2X/e/e260a60b8dca4dae6ce7db98c45bb5008e6fdc62.png)]
 <h1 align="center">Hi 👋, I'm Sayak Dutta</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
